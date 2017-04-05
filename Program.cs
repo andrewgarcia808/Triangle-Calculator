@@ -103,9 +103,12 @@ namespace ConsoleApplication1
             
             Triangle createdTriangle = new Triangle(a, b, c);
 
-            createdTriangle.check_triangle();
 
-            createdTriangle.triangle_type();
+            if (createdTriangle.check_triangle())
+            {
+                createdTriangle.triangle_type();
+            }
+            
 
             Console.ReadLine();
         }
