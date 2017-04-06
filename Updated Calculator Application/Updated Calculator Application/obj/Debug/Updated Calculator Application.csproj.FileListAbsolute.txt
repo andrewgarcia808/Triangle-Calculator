@@ -1,0 +1,5 @@
+c:\users\amkgarc\documents\visual studio 2013\Projects\Updated Calculator Application\Updated Calculator Application\bin\Debug\Updated Calculator Application.exe.config
+c:\users\amkgarc\documents\visual studio 2013\Projects\Updated Calculator Application\Updated Calculator Application\bin\Debug\Updated Calculator Application.exe
+c:\users\amkgarc\documents\visual studio 2013\Projects\Updated Calculator Application\Updated Calculator Application\bin\Debug\Updated Calculator Application.pdb
+c:\users\amkgarc\documents\visual studio 2013\Projects\Updated Calculator Application\Updated Calculator Application\obj\Debug\Updated Calculator Application.exe
+c:\users\amkgarc\documents\visual studio 2013\Projects\Updated Calculator Application\Updated Calculator Application\obj\Debug\Updated Calculator Application.pdb
